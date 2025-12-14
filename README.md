@@ -38,5 +38,7 @@ Fitur pintar yang menganalisis input string dan menebak jenis enkripsinya secara
 
 1. **Clone repository ini:**
    ```bash
-   git clone 
+   git clone https://github.com/rasyakeselekbatuginjal-lang/MonoGrafi.git
    cd monografi
+   pip install -r requirements.txt
+   python monografi.py
